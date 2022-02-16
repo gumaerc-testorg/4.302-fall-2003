@@ -2,8 +2,13 @@
 content_type: resource
 description: Assignment to make a 90 second video focusing on an aspect of your physical
   self in space.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-302-bsad-foundations-in-the-visual-arts-fall-2003/3da666d60e311b1d051a917e1ba0ec67_2_shaping_time_fo3.pdf
+file: /media/courses/4-302-bsad-foundations-in-the-visual-arts-fall-2003/3da666d60e311b1d051a917e1ba0ec67_2_shaping_time_fo3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment #2: Shaping Time '
 uid: 3da666d6-0e31-1b1d-051a-917e1ba0ec67
