@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a67f5ffc-0769-f081-22c9-02fcce6bb66e
 resourcetype: Document
 title: Student Work from Body Extension
 uid: 55d9e7e1-15a0-d31a-a6c0-0b53b9334aef

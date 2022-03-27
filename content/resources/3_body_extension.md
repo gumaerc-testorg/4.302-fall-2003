@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f390d9c-561f-cf20-808e-8cbcc4d7478b
 resourcetype: Document
 title: 'Final Assignment: Body Extension'
 uid: 4dd3bc38-850d-4e42-9871-caf591776e3e

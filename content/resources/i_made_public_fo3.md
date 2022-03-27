@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f390d9c-561f-cf20-808e-8cbcc4d7478b
 resourcetype: Document
 title: 'Assignment #1: Made Public'
 uid: fe71cd9b-c321-90bb-1ce4-f26a0ee92d3a

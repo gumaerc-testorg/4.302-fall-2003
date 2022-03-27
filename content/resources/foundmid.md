@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a67f5ffc-0769-f081-22c9-02fcce6bb66e
 resourcetype: Document
 title: Made Public
 uid: f2986dc6-0119-3267-9c86-2bd0d8340275
