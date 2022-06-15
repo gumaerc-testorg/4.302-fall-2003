@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the three major assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,8 +13,8 @@ There are three major assignments for the course, as described below.  Each ass
 Assignments
 -----------
 
-Made Public ([PDF]({{< baseurl >}}/resources/i_made_public_fo3))
+Made Public ({{% resource_link fe71cd9b-c321-90bb-1ce4-f26a0ee92d3a "PDF" %}})
 
-Shaping Time ([PDF]({{< baseurl >}}/resources/2_shaping_time_fo3))
+Shaping Time ({{% resource_link 3da666d6-0e31-1b1d-051a-917e1ba0ec67 "PDF" %}})
 
-Body Extension ([PDF]({{< baseurl >}}/resources/3_body_extension))
+Body Extension ({{% resource_link 4dd3bc38-850d-4e42-9871-caf591776e3e "PDF" %}})
