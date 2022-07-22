@@ -6,6 +6,7 @@ file: /courses/4-302-bsad-foundations-in-the-visual-arts-fall-2003/3da666d60e311
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment #2: Shaping Time '
 uid: 3da666d6-0e31-1b1d-051a-917e1ba0ec67
 ---
 Assignment to make a 90 second video focusing on an aspect of your physical self in space.
-

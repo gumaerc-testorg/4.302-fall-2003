@@ -7,6 +7,7 @@ file: /courses/4-302-bsad-foundations-in-the-visual-arts-fall-2003/fe71cd9bc3219
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Assignment #1: Made Public'
 uid: fe71cd9b-c321-90bb-1ce4-f26a0ee92d3a
 ---
 Assignment to create a work in a public space that reveals or draws attention to something overlooked, hidden, unseen, or absent, or which bears witness to a past event.
-
